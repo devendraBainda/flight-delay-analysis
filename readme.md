@@ -10,7 +10,6 @@
 - [Key Findings](#-key-findings)
 - [Business Impact](#-business-impact)
 - [File Structure](#-file-structure)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ## 🎯 Project Overview
