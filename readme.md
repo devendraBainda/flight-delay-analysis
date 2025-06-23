@@ -214,7 +214,7 @@ flight-delay-analysis/
 ├── main.ipynb                 # Complete analysis pipeline with all models and visualizations
 ├── data/
 │   └── Airline_Delay_Cause.csv   # Dataset (download required)
-├── requirements.txt             # Python dependencies (to be created)
+├── requirements.txt             # Python dependencies 
 ├── README.md                   # This file
 └── LICENSE                     # MIT License 
 ```
@@ -226,22 +226,6 @@ flight-delay-analysis/
 - Business recommendations and ROI calculations
 - Model performance metrics and evaluation
 
-## 🤝 Contributing
-
-We welcome contributions to improve the analysis and extend the methodology:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add some AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
-### Areas for Contribution
-- Additional feature engineering techniques
-- Alternative machine learning algorithms
-- Enhanced visualization methods
-- Extended business case analysis
-- Real-time data integration
 
 ## 📋 Requirements
 
@@ -282,7 +266,7 @@ This project successfully demonstrates:
 
 For questions, suggestions, or collaboration opportunities:
 - **Email**: [devendrabainda192@gmail.com]
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/devendra-bainda-57b3a1358/)]
+- **LinkedIn**: [[Devendra Bainda](https://www.linkedin.com/in/devendra-bainda-57b3a1358/)]
 
 ## 📄 License
 
@@ -290,15 +274,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **Society of Business Analytics** for the project framework
-- **Students' Technical Council** for the opportunity
 - **Open-source community** for the excellent libraries and tools
 - **Aviation industry experts** for domain insights
 
 ---
-
-⭐ **Star this repository** if you found it helpful!
-
-📈 **Follow** for more data science and machine learning projects!
-
-🔄 **Fork** to adapt this methodology for your own analysis!
